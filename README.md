@@ -23,8 +23,7 @@ const developer = {
     databases: ["PostgreSQL", "MongoDB", "Redis"],
     cloud: ["AWS", "Vercel", "Netlify"]
   },
-  currentFocus: "웹 성능 최적화 및 사용자 경험 개선",
-  funFact: "커피 한 잔과 좋은 코드가 하루를 만듭니다 ☕"
+  currentFocus: "웹 성능 최적화 및 사용자 경험 개선"
 };
 ```
 
@@ -56,8 +55,8 @@ const developer = {
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=inxx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inxx&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
 
@@ -67,13 +66,13 @@ const developer = {
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=inxx&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
   
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=inxx&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
@@ -83,7 +82,7 @@ const developer = {
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=inxx&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -93,14 +92,14 @@ const developer = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=awesome-project&theme=tokyonight)](https://github.com/yourusername/awesome-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=another-project&theme=tokyonight)](https://github.com/yourusername/another-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inxx&repo=awesome-project&theme=tokyonight)](https://github.com/inxx/awesome-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inxx&repo=another-project&theme=tokyonight)](https://github.com/inxx/another-project)
 
 </div>
 
 ---
 
-## 📫 Let's Connect!
+<!-- ## 📫 Let's Connect!
 
 <div align="center">
   
@@ -117,8 +116,8 @@ const developer = {
   
 ### 💡 "좋은 코드는 작동하는 코드가 아니라, 읽기 좋은 코드입니다"
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=6366f1&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=inxx&color=6366f1&style=for-the-badge)
 
-⭐️ From [yourusername](https://github.com/yourusername)
+⭐️ From [inxx](https://github.com/inxx)
 
-</div>
+</div> -->
