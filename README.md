@@ -1,4 +1,4 @@
-# 안녕하세요! 👋 프론트엔드 개발자 오광이입니다
+# 👋 Hello! I'm inxx, a Frontend Developer
 
 <div align="center">
   
@@ -12,7 +12,7 @@
 
 ```typescript
 const developer = {
-  name: "오광이",
+  name: "inxx",
   role: "Frontend Developer",
   location: "Seoul, Korea 🇰🇷",
   code: ["TypeScript", "JavaScript", "Python"],
@@ -23,8 +23,9 @@ const developer = {
     databases: ["PostgreSQL", "MongoDB", "Redis"],
     cloud: ["AWS", "Vercel", "Netlify"]
   },
-  currentFocus: "웹 성능 최적화 및 사용자 경험 개선"
+  currentFocus: "Web performance optimization & user experience improvement"
 };
+
 ```
 
 ---
