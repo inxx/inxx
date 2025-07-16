@@ -86,9 +86,9 @@ const developer = {
 
 </div>
 
----
 
-## 💼 Featured Projects
+
+<!-- ## 💼 Featured Projects
 
 <div align="center">
 
@@ -99,7 +99,7 @@ const developer = {
 
 ---
 
-<!-- ## 📫 Let's Connect!
+ ## 📫 Let's Connect!
 
 <div align="center">
   
