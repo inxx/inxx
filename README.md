@@ -19,9 +19,9 @@ const developer = {
   technologies: {
     frontend: ["React", "Next.js", "Vue.js", "Svelte"],
     styling: ["Tailwind CSS", "Styled Components", "SCSS"],
-    tools: ["Vite", "Webpack", "Docker", "Figma"],
-    databases: ["PostgreSQL", "MongoDB", "Redis"],
-    cloud: ["AWS", "Vercel", "Netlify"]
+    tools: ["Vite", "Webpack", "Figma"],
+    databases: ["MySQL"],
+    cloud: ["Vercel"]
   },
   currentFocus: "Web performance optimization & user experience improvement"
 };
