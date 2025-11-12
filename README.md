@@ -1,11 +1,5 @@
 # 👋 Hello! I'm inxx, a Frontend Developer
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Frontend+Developer+🚀;React+%2B+TypeScript+Expert;UI%2FUX+Enthusiast+✨;Always+Learning+New+Things+📚)](https://git.io/typing-svg)
-
-</div>
-
 ---
 
 ## 🧑‍💻 About Me
