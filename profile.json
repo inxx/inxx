@@ -1,0 +1,74 @@
+{
+  "profile": {
+    "title": "Frontend Engineer building web products and AI-assisted tools",
+    "intro": "I build web products with a frontend focus, drawing on more than a decade of experience. My work spans customer-facing commerce, admin platforms and tools for internal users and external partners. More recently, I have extended that work into Python-based knowledge search and LLM-assisted workflow automation, focusing on tools people can use in their daily work."
+  },
+  "focus": [
+    "frontend engineering",
+    "commerce web products",
+    "internal tools and admin platforms",
+    "workflow automation",
+    "LLM-powered applications",
+    "retrieval-augmented generation (RAG)"
+  ],
+  "strengths": [
+    "turning repetitive operational work into usable tools",
+    "structuring complex admin workflows and reusable frontend foundations",
+    "connecting user interfaces, APIs and automation into working product flows",
+    "moving prototypes through review, release and practical use"
+  ],
+  "tech": {
+    "primary": [
+      "TypeScript",
+      "React",
+      "Next.js"
+    ],
+    "also_work_with": [
+      "Python",
+      "SvelteKit",
+      "TanStack Query",
+      "REST APIs",
+      "SQLite"
+    ]
+  },
+  "experience_highlights": [
+    {
+      "area": "customer-facing commerce products",
+      "summary": "Developed and maintained web interfaces for product discovery, cart and checkout, with attention to accessibility and device compatibility."
+    },
+    {
+      "area": "commerce admin and partner tools",
+      "summary": "Built and modernized frontend platforms for commerce operators and external partners, including legacy migration and API integration."
+    },
+    {
+      "area": "self-service content management",
+      "summary": "Built reusable content modules and editing tools that let operators publish and update pages without repeated development and deployment work."
+    },
+    {
+      "area": "AI-assisted documentation workflows",
+      "summary": "Developed AI-assisted manual generation workflows with human review, and extended them to partner-facing and internal admin tools."
+    },
+    {
+      "area": "RAG and knowledge search",
+      "summary": "Built knowledge search and Q&A tools with retrieval-augmented generation, reranking and source-backed responses."
+    }
+  ],
+  "working_style": [
+    "start with users' actual workflows",
+    "validate ideas with small prototypes and cross-functional feedback",
+    "check operational edge cases and verify behavior during migrations",
+    "keep human review and clear failure conditions in AI-assisted workflows"
+  ],
+  "interests": [
+    "AI-powered internal tools",
+    "developer productivity",
+    "workflow automation",
+    "human-in-the-loop AI applications"
+  ],
+  "currently_exploring": [],
+  "metadata": {
+    "purpose": "public developer introduction",
+    "language": "en",
+    "updated_at": "2026-10-04"
+  }
+}
