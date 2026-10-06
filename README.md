@@ -1,31 +1,29 @@
-# Hi, I'm inxx
+![inxx — Frontend engineering · Product systems · AI automation](./assets/header.svg)
 
-**Frontend engineer building web products and AI-assisted tools.**
+I turn everyday workflows into web products and tools people can use. Over a decade in web development, with a foundation in frontend engineering.
 
-I build web products with a frontend focus, drawing on more than a decade of experience. My work spans customer-facing commerce, admin platforms and tools for internal users and external partners.
+### What I build
 
-More recently, I have extended that work into Python-based knowledge search and LLM-assisted workflow automation. I focus on tools people can use in their daily work, with source evidence and human review where needed.
+| Product interfaces | Everyday tools | AI-assisted applications |
+| :--- | :--- | :--- |
+| Commerce, admin platforms and partner-facing tools. | Self-service content tools and workflow automation. | LLM-powered tools and knowledge search with source-linked responses. |
+| Reusable interfaces and shared components. | Small prototypes shaped by user feedback. | Retrieval, reranking and human review. |
 
-## What I build
+### How I work
 
-- **Commerce web products:** product discovery, cart and checkout experiences.
-- **Admin and partner tools:** reusable frontend foundations, legacy migration and API integration.
-- **Self-service content management:** editing and publishing tools for operators.
-- **Practical AI tools:** documentation generation with human review, and RAG-based knowledge search with source-backed answers.
+Start with the user's actual workflow. Make edge cases and failure states explicit. Improve incrementally, with shared specifications and tests to support collaboration.
 
-## How I work
+### Currently exploring
 
-I start with users' actual workflows, then validate ideas with small prototypes and feedback from planning and design. I check operational edge cases and verify behavior during migrations. In AI-assisted workflows, I keep human review and clear failure conditions in the process.
+**Agentic development workflows** · **AI-assisted software delivery**  
+Developer productivity, AI-native internal tools and human-in-the-loop systems.
 
-## Tech
+### Activity
 
-**Primary:** TypeScript, React, Next.js  
-**Also work with:** Python, SvelteKit, TanStack Query, REST APIs, SQLite
+[![GitHub contribution activity, January 1–October 6, 2026. Static snapshot captured October 6, 2026.](./assets/contributions-2026.svg)](https://github.com/inxx?tab=overview&from=2026-01-01&to=2026-10-06)
 
-## Interests
+<sub>Publicly visible GitHub contribution activity, captured 2026-10-06. This is a static snapshot; it is not a count of public-repository commits only.</sub>
 
-AI-powered internal tools, developer productivity, workflow automation and human-in-the-loop AI applications.
+---
 
-## Structured profile
-
-My background, focus, technologies and working style are also available as [profile.json](./profile.json) ([raw JSON](https://raw.githubusercontent.com/inxx/inxx/main/profile.json)).
+**Structured profile** · [profile.json](https://github.com/inxx/inxx/blob/main/profile.json) · [Raw JSON](https://raw.githubusercontent.com/inxx/inxx/main/profile.json)
