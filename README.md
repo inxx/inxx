@@ -15,9 +15,14 @@ Start with the user's actual workflow. Make edge cases and failure states explic
 
 ### Tech
 
-**Primary:** TypeScript · React · Next.js
-
-**Also work with:** Python · SvelteKit · REST APIs · GraphQL · LLM APIs · Playwright
+| Area | Technologies |
+| :--- | :--- |
+| Frontend | TypeScript · React · Next.js · SvelteKit |
+| State & styling | TanStack Query · Zustand · Tailwind CSS |
+| Backend & APIs | Python · Node.js · Express · REST APIs · GraphQL |
+| Testing | Playwright · Jest · React Testing Library · MSW |
+| Automation | GitHub Actions · Style Dictionary · Octokit |
+| AI applications | LLM APIs · RAG |
 
 ### Currently exploring
 
