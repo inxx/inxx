@@ -9,25 +9,11 @@
 
 ### What I build
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>◈ Product interfaces</h4>
-      <p>Commerce, admin platforms and partner-facing tools.</p>
-      <sub>Reusable interfaces and shared components.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <h4>↗ Everyday tools</h4>
-      <p>Self-service content tools and workflow automation.</p>
-      <sub>Small prototypes shaped by user feedback.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <h4>✦ AI-assisted applications</h4>
-      <p>LLM-powered tools and knowledge search with source-linked responses.</p>
-      <sub>Retrieval, reranking and human review.</sub>
-    </td>
-  </tr>
-</table>
+| Area | What I build |
+| :--- | :--- |
+| **◈ Product interfaces** | Commerce, admin platforms and partner-facing tools. Reusable interfaces and shared components. |
+| **↗ Everyday tools** | Self-service content tools and workflow automation. Small prototypes shaped by user feedback. |
+| **✦ AI-assisted applications** | LLM-powered tools and knowledge search with source-linked responses. Retrieval, reranking and human review. |
 
 ### Tech
 
