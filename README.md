@@ -13,16 +13,16 @@ I turn everyday workflows into web products and tools people can use. Over a dec
 
 Start with the user's actual workflow. Make edge cases and failure states explicit. Improve incrementally, with shared specifications and tests to support collaboration.
 
+### Tech
+
+**Primary:** TypeScript · React · Next.js
+
+**Also work with:** Python · SvelteKit · REST APIs · GraphQL · LLM APIs · Playwright
+
 ### Currently exploring
 
 **Agentic development workflows** · **AI-assisted software delivery**  
 Developer productivity, AI-native internal tools and human-in-the-loop systems.
-
-### Activity
-
-[![GitHub contribution activity, January 1–October 6, 2026. Static snapshot captured October 6, 2026.](./assets/contributions-2026.svg)](https://github.com/inxx?tab=overview&from=2026-01-01&to=2026-10-06)
-
-<sub>Publicly visible GitHub contribution activity, captured 2026-10-06. This is a static snapshot; it is not a count of public-repository commits only.</sub>
 
 ---
 
